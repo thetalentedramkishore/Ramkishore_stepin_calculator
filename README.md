@@ -24,6 +24,7 @@ Advantages
 
 
 Calculator can solve complicated problems quickly and in an efficient manner.
+
 Computations done via calculators are more accurate to the ones done by humans.
 
 
@@ -32,6 +33,7 @@ Disadvantges
 
 
 Calculator limits the knowledge of users.
+
 Calculators can aid a lot in cheating.
 
 
