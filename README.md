@@ -1,6 +1,11 @@
 # Ramkishore_stepin_Basic_calculator
 
 Introduction
+
+
+
+
+
 Scientific calculators are used widely in situations that require quick access to certain mathematical functions,especially those that were once looked up in mathematical tables,such as trigonometric functions or logarithms.A scientific calculator is a calculator designed to help you calculate science,engineering and mathematics problems.
 In this project we will be implementing the some operation like Arthimetic operations,Trignometric operations and some essential operations using C language.
 Research
