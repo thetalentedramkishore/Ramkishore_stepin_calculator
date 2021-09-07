@@ -7,7 +7,7 @@
    <img src="https://www.code-inspector.com/project/27593/status/svg" />
 </a>
 
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e5535d7ecb004bfea3733b8d29e539c7)](https://www.codacy.com/gh/thetalentedramkishore/Ramkishore_stepin_calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=thetalentedramkishore/Ramkishore_stepin_calculator&amp;utm_campaign=Badge_Grade)
 
 
 
