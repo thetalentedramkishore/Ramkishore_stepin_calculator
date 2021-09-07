@@ -1,4 +1,4 @@
-# Ramkishore_stepin_Basic_calculator
+# Ramkishore_stepin_Basic_calculator   https://www.code-inspector.com/project/27593/status/svg
 
 Introduction
 
@@ -36,7 +36,6 @@ Calculator limits the knowledge of users.
 
 Calculators can aid a lot in cheating.
 
-https://www.code-inspector.com/project/27593/status/svg
 
 
 
