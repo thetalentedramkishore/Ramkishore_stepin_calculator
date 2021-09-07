@@ -11,7 +11,7 @@
 
 
 
-
+[![Git Inspector](https://github.com/thetalentedramkishore/Ramkishore_stepin_calculator/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/thetalentedramkishore/Ramkishore_stepin_calculator/actions/workflows/gitinspector.yml)
 
 
 
