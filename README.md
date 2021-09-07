@@ -36,6 +36,7 @@ Calculator limits the knowledge of users.
 
 Calculators can aid a lot in cheating.
 
+https://www.code-inspector.com/project/27593/status/svg
 
 
 
